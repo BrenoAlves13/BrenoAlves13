@@ -1,17 +1,18 @@
 # Hi, I'm Breno Ribeiro 👋
 
-**Computer Science Student | IT | Automation | AI Engineering**
+**Computer Science Student | Automation | AI Engineering**
 
-I'm a Computer Science student interested in building practical technology solutions, automating processes, and exploring the engineering behind modern AI systems.
+I'm a Computer Science student focused on building practical technology solutions, automating processes, and exploring the engineering behind modern AI systems.
 
-Currently, I'm deepening my knowledge in **AI Engineering, LLMs, AI Agents, and Agent Harnesses**, while continuing to develop my software engineering and IT skills.
+Currently, I'm deepening my knowledge in **AI Engineering, LLMs, AI Agents, Agent Harnesses, and frameworks for building agentic systems**, while continuing to develop my software engineering skills.
 
 ## 🧑‍💻 About me
 
 - 🎓 Computer Science student
-- 💼 IT professional focused on support, account/user administration, and process automation
+- ⚙️ Focused on process automation and software development
 - 🤖 Studying AI Engineering, LLMs, Agents, and Agent Harnesses
-- ⚙️ Interested in automation, software development, and practical AI applications
+- 🧩 Interested in AI frameworks, tools, orchestration, and agentic architectures
+- 🚀 Building practical projects to turn concepts into working solutions
 - 📚 Always learning through hands-on projects
 
 ## 🛠️ Technologies & Tools
@@ -20,9 +21,9 @@ Currently, I'm deepening my knowledge in **AI Engineering, LLMs, AI Agents, and 
 
 `Java` `JavaScript` `C` `C#` `HTML` `CSS` `SQL`
 
-**Data & Automation**
+**Automation & Productivity**
 
-`Excel` `Power BI` `Power Automate` `PowerApps` `SharePoint`
+`Power Automate` `PowerApps` `Power BI` `Excel` `SharePoint`
 
 **Tools & Platforms**
 
@@ -35,6 +36,7 @@ I'm currently focusing on the engineering side of AI systems, especially:
 - Large Language Models (LLMs)
 - AI Agents
 - Agent Harnesses
+- AI frameworks and SDKs
 - Tool Calling
 - Model Context Protocol (MCP)
 - Planning & Orchestration
@@ -44,13 +46,15 @@ I'm currently focusing on the engineering side of AI systems, especially:
 
 ## 🚀 What I'm building
 
-My GitHub is becoming a portfolio of practical projects across **software development, automation, and AI Engineering**.
+My GitHub is becoming a portfolio of practical projects across **process automation, software development, and AI Engineering**.
+
+I'm particularly interested in building systems where AI can interact with tools, reason over tasks, execute actions, and operate within reliable engineering infrastructure.
 
 > I believe the best way to learn technology is to understand the concepts and then build with them.
 
 ## 📚 Currently learning
 
-**AI Engineering · Agentic Systems · Software Development · Cloud Computing**
+**AI Engineering · Agentic Systems · AI Frameworks · LLM Applications · Software Development · Cloud Computing**
 
 ## 📫 Connect with me
 
