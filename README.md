@@ -58,7 +58,8 @@ I'm particularly interested in building systems where AI can interact with tools
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn: [Breno Ribeiro](https://www.linkedin.com/)
+- 💼 LinkedIn: www.linkedin.com/in/breno-ribeiro-alves
+
 - 🐙 GitHub: [@BrenoAlves13](https://github.com/BrenoAlves13)
 
 ---
